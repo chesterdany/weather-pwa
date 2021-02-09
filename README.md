@@ -2,4 +2,4 @@
 
 ### [Live](https://weather-pwaapp.netlify.app/)
 
-!(https://ibb.co/hCg4QXz)
+![Weather App](https://ibb.co/hCg4QXz)
